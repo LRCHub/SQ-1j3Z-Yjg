@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Happy End (Bossa Eng ver.)",
+  "base_artist": "Rothy",
+  "createdAt": "2025-12-09T18:04:26.079738Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy End (Bossa Eng ver.)",
+      "artist": "Rothy",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_End_(Bossa_Eng_ver.)_Rothy.txt"
+    }
+  ]
+}
